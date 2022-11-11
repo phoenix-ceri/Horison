@@ -11,7 +11,7 @@ its a webpage open it in a browser
 its a web page. use eyes ro read after opening in browser of choice
 ## Credits
 
-i followed the prework canvase account 
+ucf for the base code
 
 ## License
 
