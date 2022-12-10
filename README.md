@@ -1,14 +1,14 @@
 # Moduel one project
 ## Description
 
-finalized copy of the project
+Revitalised the code for this webpage
 ## Installation
-
-its a webpage open it in a browser
+![screenshot of website](./assets/images/screen.png)
+open in your browser
 
 ## Usage
-
-its a web page. use eyes ro read after opening in browser of choice
+open using the following link
+https://phoenix-ceri.github.io/Horison/
 ## Credits
 
 ucf for the base code
